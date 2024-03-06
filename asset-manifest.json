@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/petsmile-frontend/static/css/main.5d421b28.css",
+    "main.js": "/petsmile-frontend/static/js/main.518bfa36.js",
+    "index.html": "/petsmile-frontend/index.html",
+    "main.5d421b28.css.map": "/petsmile-frontend/static/css/main.5d421b28.css.map",
+    "main.518bfa36.js.map": "/petsmile-frontend/static/js/main.518bfa36.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d421b28.css",
+    "static/js/main.518bfa36.js"
+  ]
+}
