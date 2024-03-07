@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/petsmile-frontend/static/css/main.5d421b28.css",
-    "main.js": "/petsmile-frontend/static/js/main.5b42175a.js",
+    "main.js": "/petsmile-frontend/static/js/main.58b313cb.js",
     "index.html": "/petsmile-frontend/index.html",
     "main.5d421b28.css.map": "/petsmile-frontend/static/css/main.5d421b28.css.map",
-    "main.5b42175a.js.map": "/petsmile-frontend/static/js/main.5b42175a.js.map"
+    "main.58b313cb.js.map": "/petsmile-frontend/static/js/main.58b313cb.js.map"
   },
   "entrypoints": [
     "static/css/main.5d421b28.css",
-    "static/js/main.5b42175a.js"
+    "static/js/main.58b313cb.js"
   ]
 }
